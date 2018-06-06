@@ -11,10 +11,10 @@ import java.util.List;
  * Created by Administrator on 2018/5/22.
  */
 
-public class CrowerAdapter extends BaseQuickAdapter<CrowerInfo, BaseViewHolder> {
+public class CityAdapter extends BaseQuickAdapter<CrowerInfo, BaseViewHolder> {
 
 
-    public CrowerAdapter(int layoutResId, @Nullable List<CrowerInfo> data) {
+    public CityAdapter(int layoutResId, @Nullable List<CrowerInfo> data) {
         super(layoutResId, data);
     }
 
